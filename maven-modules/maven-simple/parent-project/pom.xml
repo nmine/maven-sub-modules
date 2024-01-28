@@ -20,18 +20,4 @@
         <module>webapp</module>
     </modules>
 
-    <dependencyManagement>
-        <dependencies>
-            <dependency>
-                <groupId>org.springframework</groupId>
-                <artifactId>spring-core</artifactId>
-                <version>${spring-core.version}</version>
-            </dependency>
-        </dependencies>
-    </dependencyManagement>
-
-    <properties>
-        <spring-core.version>5.3.16</spring-core.version>
-    </properties>
-
 </project>

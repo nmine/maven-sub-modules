@@ -20,8 +20,5 @@
         </dependency>
     </dependencies>
 
-    <properties>
-        <spring-core.version>4.3.30.RELEASE</spring-core.version>
-    </properties>
 
 </project>
